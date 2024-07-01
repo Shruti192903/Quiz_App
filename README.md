@@ -1,18 +1,34 @@
 # Quiz_App
 
-## Online Quiz App
+# Quiz App
+
+A simple quiz application built using HTML, CSS, and JavaScript.
 
 ## Features
-- Timer functionality for each question
-- Categories (e.g., Science, History, Sports)
-- Difficulty levels (Easy, Medium, Hard)
-- Customizable timers for each difficulty level
-- Score tracking and display at the end of the quiz
+
+- **Timer Functionality**: Each question has a set time limit, adding a sense of urgency and challenge to the quiz.
+- **Multiple Choice Questions**: The quiz consists of multiple-choice questions with a single correct answer.
+- **Score Tracking**: The user's score is displayed at the end of the quiz.
+- **Responsive Design**: The quiz app is optimized for both desktop and mobile devices.
+
+## Getting Started
+
+To run the Quiz App locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Shruti192903/Quiz_App.git
+   cd Quiz_App
+
+2. Open the `index.html` file in your preferred web browser.
 
 ## Usage
-1. Select a category and difficulty level
-2. The timer will start as soon as the question is displayed
-3. Choose the correct answer before the timer runs out
-4. If the answer is correct, you will receive points based on the remaining time
-5. If the answer is incorrect or the timer runs out, you will not receive any points
-6. At the end of the quiz, your final score will be displayed
+
+1. **Start the Quiz**: Click the "Start Quiz" button to begin the quiz.
+2. **Answer Questions**: Select the correct answer for each multiple-choice question within the time limit.
+3. **View Score**: At the end of the quiz, your final score will be displayed.
+
+
+
+
