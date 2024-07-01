@@ -29,6 +29,8 @@ To run the Quiz App locally, follow these steps:
 2. **Answer Questions**: Select the correct answer for each multiple-choice question within the time limit.
 3. **View Score**: At the end of the quiz, your final score will be displayed.
 
+## Ouptput
 
+![Quiz App HomeScreen](homepage.png)
 
 
